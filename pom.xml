@@ -70,6 +70,7 @@
     <dagger-compiler.version>${dagger.main.version}</dagger-compiler.version>
     <guava.version>16.0-rc1</guava.version>
     <javax.inject.version>1</javax.inject.version>
+    <servlet-api.version>2.5</servlet-api.version>
     <junit.version>4.11</junit.version>
     <maven-plugin-annotations.version>3.2</maven-plugin-annotations.version>
     <maven-plugin-api.version>3.0.5</maven-plugin-api.version>
