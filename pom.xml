@@ -68,7 +68,7 @@
     <commons-io.version>2.4</commons-io.version>
     <dagger.version>${dagger.main.version}</dagger.version>
     <dagger-compiler.version>${dagger.main.version}</dagger-compiler.version>
-    <guava.version>16.0-rc1</guava.version>
+    <guava.version>16.0</guava.version>
     <javax.inject.version>1</javax.inject.version>
     <servlet-api.version>2.5</servlet-api.version>
     <junit.version>4.11</junit.version>
